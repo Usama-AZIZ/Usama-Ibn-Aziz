@@ -65,3 +65,47 @@
     </footer>
 </body>
 </html>
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header {
+    text-align: center;
+    background-color: #003366;
+    color: white;
+    padding: 20px;
+}
+
+section {
+    margin: 20px;
+    padding: 10px;
+}
+
+h2 {
+    color: #003366;
+}
+
+footer {
+    text-align: center;
+    background-color: #003366;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+ul li {
+    margin: 10px 0;
+}
+
